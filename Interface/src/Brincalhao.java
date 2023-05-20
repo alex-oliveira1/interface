@@ -1,0 +1,3 @@
+interface Brincalhao {
+    void brincar();
+}
